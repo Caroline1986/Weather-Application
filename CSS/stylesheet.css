@@ -27,11 +27,15 @@
     max-height: 120px;
 }
 
-input
-{
+input {
     color: #fff;
     padding: 0;
     margin: 0;
     border: 0;
     background-color: transparent;
+}
+
+.td {
+    display: table-cell;
+    vertical-align: middle;
 }
