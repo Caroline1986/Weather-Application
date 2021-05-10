@@ -39,3 +39,12 @@ input {
     display: table-cell;
     vertical-align: middle;
 }
+
+button
+{
+    position: relative;
+    display: block;
+    width: 84px;
+    height: 96px;
+    cursor: pointer;
+}
